@@ -1,0 +1,41 @@
+.height {
+  height: 350px;
+}
+@media only screen and (max-width: 600px) {
+  .height {
+    height: 500px;
+  }
+}
+.font-color {
+  color: rgb(245, 196, 38);
+}
+h1 {
+  word-spacing: 5px;
+  font-size: 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.p1 {
+  height: 373px;
+  width: 279px;
+  margin-top: -160px;
+  margin-left: 194px;
+
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.p2 {
+  height: 279px;
+  width: 286.5px;
+  margin-top: -34px;
+  margin-left: 206px;
+
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.main {
+  position: relative;
+  left: 0;
+  top: 0;
+}
