@@ -1,0 +1,9 @@
+.card-width {
+  width: 18rem;
+}
+@media only screen and (max-width: 600px) {
+  .card-width {
+    width: 25rem;
+    padding-left: 40px;
+  }
+}

@@ -1,0 +1,9 @@
+.bg {
+  background-color: antiquewhite;
+}
+@media only screen and (max-width: 600px) {
+  .bg {
+    background-color: rgb(245, 201, 143);
+    width: auto;
+  }
+}
