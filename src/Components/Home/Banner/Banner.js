@@ -6,7 +6,7 @@ export default function Banner() {
       <div>
         <div className="container mt-5 height mb-3">
           <div className="row">
-            <div className="col-sm-5 col-xs-3 ">
+            <div className="col-sm-5 col-md-5 col-12">
               <h1>
                 {" "}
                 <span className="font-color">
@@ -22,7 +22,7 @@ export default function Banner() {
                 <span style={{ fontSize: "15px" }}>BUY NOW </span>
               </button>
             </div>
-            <div className="col-sm-5 col-xs-9 d-flex align-items-center mt-0 main">
+            <div className="col-12 col-sm-5  col-md-5  d-flex align-items-center mt-0 main">
               <img
                 src="https://i.ibb.co/7CCFkkQ/Group-33091.png"
                 className="p2"
